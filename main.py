@@ -1,5 +1,5 @@
 def main():
-    print("Hello from earth!")
+    print('Hello World!')
     return 0
 
 
